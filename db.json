@@ -1,32 +1,32 @@
 {
   "country": {"instances":[
       {
-              "displayText": "Pleasanton, USA",
-              "identifier": "pleasanton_USA"
+              "descriptor": "Pleasanton, USA",
+              "id": "pleasanton_USA"
           },
           {
-              "displayText": "Dublin, Ireland",
-              "identifier": "dublin_Ireland"
+              "descriptor": "Dublin, Ireland",
+              "id": "dublin_Ireland"
           }
     ]},
   
     "pleasanton_USA": {
       "buildings": [
       {
-            "displayText": "6230 PLS",
-            "identifier": "6230_PLS"
+            "descriptor": "6230 PLS",
+            "id": "6230_PLS"
         },
         {
-            "displayText": "6160 PLS",
-            "identifier": "6160_PLS"
+            "descriptor": "6160 PLS",
+            "id": "6160_PLS"
         }
       ]
     }
      ,
     "dublin_Ireland": {"buildings": [
         {
-            "displayText": "Kings Building",
-            "identifier": "kings_building"
+            "descriptor": "Kings Building",
+            "id": "kings_building"
         }
     ]
   }
