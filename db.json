@@ -10,5 +10,15 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "country": [
+    {
+            "displayText": "Pleasanton, USA",
+            "identifier": "pleasanton_USA"
+        },
+        {
+            "displayText": "Dublin, Ireland",
+            "identifier": "dublin_Ireland"
+        }
+  ]
 }
