@@ -21,7 +21,7 @@
             "identifier": "dublin_Ireland"
         }
   ],
-  "city": {
+  
     "pleasanton_USA": [
       {
             "displayText": "6230 PLS",
@@ -38,5 +38,4 @@
             "identifier": "kings_building"
         }
     ]
-  }
 }
