@@ -10,7 +10,8 @@
         }
   ],
   
-    "pleasanton_USA": [
+    "pleasanton_USA": {
+      "buildings": [
       {
             "displayText": "6230 PLS",
             "identifier": "6230_PLS"
@@ -19,11 +20,14 @@
             "displayText": "6160 PLS",
             "identifier": "6160_PLS"
         }
-      ] ,
-    "dublin_Ireland": [
+      ]
+    }
+     ,
+    "dublin_Ireland": {"buildings": [
         {
             "displayText": "Kings Building",
             "identifier": "kings_building"
         }
     ]
+  }
 }
