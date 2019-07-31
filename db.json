@@ -1,14 +1,14 @@
 {
-  "country": [
-    {
-            "displayText": "Pleasanton, USA",
-            "identifier": "pleasanton_USA"
-        },
-        {
-            "displayText": "Dublin, Ireland",
-            "identifier": "dublin_Ireland"
-        }
-  ],
+  "country": {"instances":[
+      {
+              "displayText": "Pleasanton, USA",
+              "identifier": "pleasanton_USA"
+          },
+          {
+              "displayText": "Dublin, Ireland",
+              "identifier": "dublin_Ireland"
+          }
+    ]},
   
     "pleasanton_USA": {
       "buildings": [
