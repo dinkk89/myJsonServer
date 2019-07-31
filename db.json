@@ -20,5 +20,23 @@
             "displayText": "Dublin, Ireland",
             "identifier": "dublin_Ireland"
         }
-  ]
+  ],
+  "city": {
+    "pleasanton_USA": [
+      {
+            "displayText": "6230 PLS",
+            "identifier": "6230_PLS"
+        },
+        {
+            "displayText": "6160 PLS",
+            "identifier": "6160_PLS"
+        }
+      ] ,
+    "dublin_Ireland": [
+        {
+            "displayText": "Kings Building",
+            "identifier": "kings_building"
+        }
+    ]
+  }
 }
