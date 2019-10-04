@@ -74,12 +74,12 @@
   },
   "column": {
     "columnData": [{
-        "name": "Description",
+        "name": "Name",
         "id": "descriptor",
         "type": "string"
       },
       {
-        "name": "Count",
+        "name": "Phone Number",
         "id": "primaryWorkPhone",
         "type": "string"
       }
