@@ -80,8 +80,8 @@
       },
       {
         "name": "Count",
-        "id": "count",
-        "type": "number"
+        "id": "primaryWorkPhone",
+        "type": "string"
       }
     ]
   }
